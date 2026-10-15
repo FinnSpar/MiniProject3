@@ -1,18 +1,51 @@
-WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field(one out of five listed above);AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;KeyEvidence;Comments
-;;;;;;;;;
-WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
-https://github.com/GEOLYTIX/xyz;teammate_netid;your_netid;HasRecovered;No;No;No;No clear inactivity gap;" continuous feature updates over time.";No;AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-https://github.com/ImagingDataCommons/dicomweb-client;teammate_netid;your_netid;HasRecovered;Yes;Yes;Yes;Development paused Aug–Dec 2023;" resumed with new feature commits.";Yes;AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-https://github.com/Pressio/pressio;teammate_netid;your_netid;HasRecovered;Yes;Yes;Yes;Consistent debugging commits;" activity steady throughout 2024.";Yes;AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-7 more rows...;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-https://github.com/GEOLYTIX/xyz;teammate_netid;your_netid;WhyRecovered;setup → feature development (no gap);Continuous updates — no recovery phase;No;No clear inactivity gap;" continuous feature updates over time.";setup → feature development (no gap);AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-https://github.com/ImagingDataCommons/dicomweb-client;teammate_netid;your_netid;WhyRecovered;error checking → feature development;error checking → feature development;Yes;Development paused Aug–Dec 2023;" resumed with new feature commits.";error checking → feature development;AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-https://github.com/Pressio/pressio;teammate_netid;your_netid;WhyRecovered;debugging → debugging;debugging → debugging;Yes;Consistent debugging commits;" activity steady throughout 2024.";debugging → debugging;AuthorKept;Yes;No discrepancies found;" partner (iweaver2) had no posted data";" so author values were retained."
-7 more rows...
-Make 10 rows for each field in {HasRecovered;" WhyRecovered";" Activity";" Pattern";" Currentstatus";" RecentThemes}"
-"                     "
-"                  "
-"                    "
-"                     "
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;KeyEvidence;Comments
+amrex-codes_iamr;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;3404 commits after gap;
+aspuru-guzik-group_tequila;hawad;bjy819;HasRecovered;N/A;Yes;No;;539 commits after one-month pause;
+cmusatyalab_openface;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;Dependency bumps after gap;
+csgillespie_efficientr;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;7 commits after gap;
+datmo_datmo;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;9 commits in June 2025;
+inasafe_inasafe;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;38 commits after gap;
+jstacs_jstacs;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;2056 commits after gap;
+parallel-netcdf_pnetcdf;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;7709 commits after gap;
+tbereau_auto_martini;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;313 commits after gap;
+voxelmorph_voxelmorph;hawad;bjy819;HasRecovered;Yes;Yes;Yes;;224 commits after two-month pause;
+amrex-codes_iamr;hawad;bjy819;WhyRecovered;"No disruption found; normal resumption";Routine maintenance resumed;Yes;;Solver updates and fixes;
+aspuru-guzik-group_tequila;hawad;bjy819;WhyRecovered;N/A;Feature work and release updates resumed;No;;Orbital optimizer changes and v1.9.2;
+cmusatyalab_openface;hawad;bjy819;WhyRecovered;New outside contributors submitted small fixes on top of bot updates;Automated dependency updates resumed first;No;;Dependabot autobahn and twisted bumps;
+csgillespie_efficientr;hawad;bjy819;WhyRecovered;A new contributor's PR (dead-link cleanup) got merged;Documentation cleanup resumed;Yes;;Dead-link removal in collaboration chapter;
+datmo_datmo;hawad;bjy819;WhyRecovered;An existing contributor returned to actively modernize the codebase;Code modernization resumed;Yes;;Dependency upgrades and Python 2 removal;
+inasafe_inasafe;hawad;bjy819;WhyRecovered;Next release cycle began;Release maintenance resumed;Yes;;Version bumps and 5.0.6 release;
+jstacs_jstacs;hawad;bjy819;WhyRecovered;"Same core maintainer resumed; one new contributor also appears";"Development resumed; cause unclear";No;;Blank messages and alignment API changes;
+parallel-netcdf_pnetcdf;hawad;bjy819;WhyRecovered;"Continued development; a new contributor joined for compatibility fixes";Development and compatibility work resumed;Yes;;MPI alignment and netCDF compatibility fixes;
+tbereau_auto_martini;hawad;bjy819;WhyRecovered;A new contributor took over, doing a major restructure and Python 3 port;Restructuring and Python 3 port;Yes;;Major cleanup and successful Python 3 port;
+voxelmorph_voxelmorph;hawad;bjy819;WhyRecovered;Same regular contributor group resumed, plus one new contributor;Documentation and model updates resumed;Yes;;SynthMorph reference and model-name updates;
+amrex-codes_iamr;hawad;bjy819;ActivityPattern;rising;irregular;No;;2018–2021 peak then sharp drop;
+aspuru-guzik-group_tequila;hawad;bjy819;ActivityPattern;irregular;irregular;Yes;;Uneven yearly totals and short pause;
+cmusatyalab_openface;hawad;bjy819;ActivityPattern;declining;declining;Yes;;529 commits in 2016 versus 10 in 2024;
+csgillespie_efficientr;hawad;bjy819;ActivityPattern;declining;declining;Yes;;1691 in 2016 versus 7 in 2025;
+datmo_datmo;hawad;bjy819;ActivityPattern;declining;declining;Yes;;1063 in 2018 versus 9 in 2025;
+inasafe_inasafe;hawad;bjy819;ActivityPattern;declining;declining;Yes;;Thousands yearly reduced to tens;
+jstacs_jstacs;hawad;bjy819;ActivityPattern;declining;declining;Yes;;556 in 2016 versus 15 in 2024;
+parallel-netcdf_pnetcdf;hawad;bjy819;ActivityPattern;cyclical;irregular;No;;2018 peak then sharp 2020 drop;
+tbereau_auto_martini;hawad;bjy819;ActivityPattern;irregular;irregular;Yes;;Large 2019 burst between quiet stretches;
+voxelmorph_voxelmorph;hawad;bjy819;ActivityPattern;steady;irregular;No;;289 in 2020 versus 57 in 2024;
+amrex-codes_iamr;hawad;bjy819;Currentstatus;Active;Inactive;No;;Last pre-cutoff commit 2025-01-04;Default branch as of 2025-09-30
+aspuru-guzik-group_tequila;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-09-15;Default branch as of 2025-09-30
+cmusatyalab_openface;hawad;bjy819;Currentstatus;Active;Inactive;No;;Last pre-cutoff commit 2024-10-04;Default branch as of 2025-09-30
+csgillespie_efficientr;hawad;bjy819;Currentstatus;Inactive;Inactive;Yes;;Last pre-cutoff commit 2025-02-27;Default branch as of 2025-09-30
+datmo_datmo;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-06-23;Default branch as of 2025-09-30
+inasafe_inasafe;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-05-21;Default branch as of 2025-09-30
+jstacs_jstacs;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-09-28;Default branch as of 2025-09-30
+parallel-netcdf_pnetcdf;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-08-28;Default branch as of 2025-09-30
+tbereau_auto_martini;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-05-28;Default branch as of 2025-09-30
+voxelmorph_voxelmorph;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-09-26;Default branch as of 2025-09-30
+amrex-codes_iamr;hawad;bjy819;RecentThemes;Bug fixes:Other;Bug fixes:Other;Yes;;Issue fixes and CI maintenance;Latest ten on default branch through 2026-09-28
+aspuru-guzik-group_tequila;hawad;bjy819;RecentThemes;Feature development:Bug fixes;Feature development:Bug fixes;Yes;;New optimizer, compilation and orbital fixes;Latest ten on default branch through 2026-05-28
+cmusatyalab_openface;hawad;bjy819;RecentThemes;Feature development:Automated bot contributions;Feature development:Documentation updates;No;;PyTorch features and README/typo cleanup;Latest ten on default branch through 2026-07-18
+csgillespie_efficientr;hawad;bjy819;RecentThemes;Other:Documentation updates;Bug fixes:Documentation updates;No;;Example-code fixes, typos and dead links;Latest ten on default branch through 2025-02-27
+datmo_datmo;hawad;bjy819;RecentThemes;Documentation updates:Other;Documentation updates:Other;Yes;;README cleanup and CI modernization;Latest ten on default branch through 2025-06-23
+inasafe_inasafe;hawad;bjy819;RecentThemes;Other:Documentation updates;Bug fixes:Other;No;;Compatibility fixes, lint and merge maintenance;Latest ten on default branch through 2025-05-21
+jstacs_jstacs;hawad;bjy819;RecentThemes;Feature development:Bug fixes;Feature development:Bug fixes;Yes;;New classes, GAF and coverage fixes;Latest ten on default branch through 2026-03-12
+parallel-netcdf_pnetcdf;hawad;bjy819;RecentThemes;Release:Bug fixes;Documentation updates:Bug fixes;No;;README notes and compiler/API fixes;Latest ten on default branch through 2026-09-27
+tbereau_auto_martini;hawad;bjy819;RecentThemes;Documentation updates:Automated bot contributions;Documentation updates:Other;No;;Install instructions and workflow maintenance;Latest ten on default branch through 2025-05-28
+voxelmorph_voxelmorph;hawad;bjy819;RecentThemes;Other:Feature development;Bug fixes:Other;No;;Compatibility fixes and refactoring;Latest ten on default branch through 2026-09-11
