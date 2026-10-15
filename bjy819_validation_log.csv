@@ -19,7 +19,7 @@ jstacs_jstacs;hawad;bjy819;WhyRecovered;"Same core maintainer resumed; one new c
 parallel-netcdf_pnetcdf;hawad;bjy819;WhyRecovered;"Continued development; a new contributor joined for compatibility fixes";Development and compatibility work resumed;Yes;;MPI alignment and netCDF compatibility fixes;
 tbereau_auto_martini;hawad;bjy819;WhyRecovered;A new contributor took over, doing a major restructure and Python 3 port;Restructuring and Python 3 port;Yes;;Major cleanup and successful Python 3 port;
 voxelmorph_voxelmorph;hawad;bjy819;WhyRecovered;Same regular contributor group resumed, plus one new contributor;Documentation and model updates resumed;Yes;;SynthMorph reference and model-name updates;
-amrex-codes_iamr;hawad;bjy819;ActivityPattern;rising;irregular;No;;2018–2021 peak then sharp drop;
+amrex-codes_iamr;hawad;bjy819;ActivityPattern;rising;irregular;No;irregular;2018–2021 peak then sharp drop;When you just look at the most recent times, it is declining, but the whole timeseries in irregular.
 aspuru-guzik-group_tequila;hawad;bjy819;ActivityPattern;irregular;irregular;Yes;;Uneven yearly totals and short pause;
 cmusatyalab_openface;hawad;bjy819;ActivityPattern;declining;declining;Yes;;529 commits in 2016 versus 10 in 2024;
 csgillespie_efficientr;hawad;bjy819;ActivityPattern;declining;declining;Yes;;1691 in 2016 versus 7 in 2025;
@@ -31,7 +31,7 @@ tbereau_auto_martini;hawad;bjy819;ActivityPattern;irregular;irregular;Yes;;Large
 voxelmorph_voxelmorph;hawad;bjy819;ActivityPattern;steady;irregular;No;;289 in 2020 versus 57 in 2024;
 amrex-codes_iamr;hawad;bjy819;Currentstatus;Active;Inactive;No;;Last pre-cutoff commit 2025-01-04;Default branch as of 2025-09-30
 aspuru-guzik-group_tequila;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-09-15;Default branch as of 2025-09-30
-cmusatyalab_openface;hawad;bjy819;Currentstatus;Active;Inactive;No;;Last pre-cutoff commit 2024-10-04;Default branch as of 2025-09-30
+cmusatyalab_openface;hawad;bjy819;Currentstatus;Active;Inactive;No;Active;Last pre-cutoff commit 2024-10-04;They are still pushing commits, looking at the repo shows this
 csgillespie_efficientr;hawad;bjy819;Currentstatus;Inactive;Inactive;Yes;;Last pre-cutoff commit 2025-02-27;Default branch as of 2025-09-30
 datmo_datmo;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-06-23;Default branch as of 2025-09-30
 inasafe_inasafe;hawad;bjy819;Currentstatus;Active;Active;Yes;;Last pre-cutoff commit 2025-05-21;Default branch as of 2025-09-30
