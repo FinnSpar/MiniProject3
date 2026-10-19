@@ -1,0 +1,29 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;AdjudicatedValue;ResolutionType(AuthorKept ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+aspuru-guzik-group_tequila;hawad;bjy819;HasRecovered;N/A;Yes;;;;539 commits after one-month pause;Discussion outcome not recorded in supplied CSV
+aspuru-guzik-group_tequila;hawad;bjy819;WhyRecovered;N/A;Feature work and release updates resumed;;;;Orbital optimizer changes and v1.9.2;Discussion outcome not recorded in supplied CSV
+cmusatyalab_openface;hawad;bjy819;WhyRecovered;New outside contributors submitted small fixes on top of bot updates;Automated dependency updates resumed first;;;;Dependabot autobahn and twisted bumps;Discussion outcome not recorded in supplied CSV
+jstacs_jstacs;hawad;bjy819;WhyRecovered;"Same core maintainer resumed; one new contributor also appears";"Development resumed; cause unclear";;;;Blank messages and alignment API changes;Discussion outcome not recorded in supplied CSV
+amrex-codes_iamr;hawad;bjy819;ActivityPattern;rising;irregular;irregular;ValidatorKept;Yes;2018–2021 peak then sharp drop;Full timeline irregular despite a recent decline
+parallel-netcdf_pnetcdf;hawad;bjy819;ActivityPattern;cyclical;irregular;;;;2018 peak then sharp 2020 drop;Discussion outcome not recorded in supplied CSV
+voxelmorph_voxelmorph;hawad;bjy819;ActivityPattern;steady;irregular;;;;289 in 2020 versus 57 in 2024;Discussion outcome not recorded in supplied CSV
+amrex-codes_iamr;hawad;bjy819;Currentstatus;Active;Inactive;;;;Last pre-cutoff commit 2025-01-04;Discussion outcome not recorded in supplied CSV
+cmusatyalab_openface;hawad;bjy819;Currentstatus;Active;Inactive;Active;AuthorKept;Yes;Last pre-cutoff commit 2024-10-04;"Recorded resolution uses recent commits; revisit against the required 2025-09-30 cutoff"
+cmusatyalab_openface;hawad;bjy819;RecentThemes;Feature development:Automated bot contributions;Feature development:Documentation updates;;;;PyTorch features and README/typo cleanup;Discussion outcome not recorded in supplied CSV
+csgillespie_efficientr;hawad;bjy819;RecentThemes;Other:Documentation updates;Bug fixes:Documentation updates;;;;Example-code fixes, typos and dead links;Discussion outcome not recorded in supplied CSV
+inasafe_inasafe;hawad;bjy819;RecentThemes;Other:Documentation updates;Bug fixes:Other;;;;Compatibility fixes, lint and merge maintenance;Discussion outcome not recorded in supplied CSV
+parallel-netcdf_pnetcdf;hawad;bjy819;RecentThemes;Release:Bug fixes;Documentation updates:Bug fixes;;;;README notes and compiler/API fixes;Discussion outcome not recorded in supplied CSV
+tbereau_auto_martini;hawad;bjy819;RecentThemes;Documentation updates:Automated bot contributions;Documentation updates:Other;;;;Install instructions and workflow maintenance;Discussion outcome not recorded in supplied CSV
+voxelmorph_voxelmorph;hawad;bjy819;RecentThemes;Other:Feature development;Bug fixes:Other;;;;Compatibility fixes and refactoring;Discussion outcome not recorded in supplied CSV
+sixin-zh_kymatio_wph;bjy819;hawad;HasRecovered;No;Yes;No;AuthorKept;Yes;Only two small commits after 30-month gap;"Recorded decision treats recovery as sustained activity; codebook also allows resumed commits"
+mobvoi_wenet;bjy819;hawad;WhyRecovered;A returning earlier contributor (7% of earlier commits) restarted work;Just normal work picking back up - a mix of new features and cleanup.;A returning contributor restarted work;AuthorKept;Yes;Features and cleanup after short gap;Retained returning-contributor explanation
+vearch_vearch;bjy819;hawad;WhyRecovered;A returning earlier contributor (2% of earlier commits) restarted work;Not totally clear - the commits after the gap mention a different, unrelated project (cubefs) being merged in.;;;;Post-gap messages mention cubefs merges;Discussion outcome not recorded in supplied CSV
+stephenslab_mr.mash.alpha;bjy819;hawad;WhyRecovered;A returning earlier contributor (9% of earlier commits) restarted work;Looks like a different person took over - before the gap it was one person, after the gap it's a new contributor.;A returning contributor restarted work;AuthorKept;Yes;Earlier contributor accounted for 9% of prior commits;Retained returning-contributor explanation
+mobvoi_wenet;bjy819;hawad;ActivityPattern;declining;irregular;declining;AuthorKept;Yes;Full five-year timeline versus recent bursts;Retained full-history assessment
+pbs-assess_gfsynopsis;bjy819;hawad;ActivityPattern;irregular;U-shaped;irregular;AuthorKept;Yes;Three gaps across full 2018–2025 history;Full history favored over one-year window
+pmlmodelling_ersem;bjy819;hawad;ActivityPattern;cyclical;irregular;cyclical;AuthorKept;Yes;Nine gaps across 2011–2026 history;"Recorded author label retained; repeated gaps alone do not establish regular cycles"
+vearch_vearch;bjy819;hawad;ActivityPattern;irregular;stopped;irregular;AuthorKept;Yes;Two gaps in full history versus ten quiet weeks;Full history favored over recent inactivity
+hannorein_rebound;bjy819;hawad;ActivityPattern;U-shaped;steady;U-shaped;AuthorKept;Yes;Full history includes a 2014 gap;Retained full-history assessment
+hpddm_hpddm;bjy819;hawad;ActivityPattern;cyclical;irregular;cyclical;AuthorKept;Yes;Two gaps in full 2014–2025 history;"Recorded author label retained; regular repetition still needs support"
+stephenslab_mr.mash.alpha;bjy819;hawad;ActivityPattern;declining;stopped;declining;AuthorKept;Yes;Long-term decline versus recent silence;Retained broader timeline assessment
+gem_oq-engine;bjy819;hawad;ActivityPattern;irregular;steady;irregular;AuthorKept;Yes;Constant activity with varying commit counts;Recorded author label retained
+sixin-zh_kymatio_wph;bjy819;hawad;RecentThemes;Other, Feature development;Documentation updates, (no clear second theme);Other:Feature development;AuthorKept;Yes;README edits and varied one-off changes;Recorded author themes retained
