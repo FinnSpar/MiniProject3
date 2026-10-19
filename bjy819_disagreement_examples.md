@@ -1,6 +1,6 @@
 # Disagreement examples
 
-Parties: bjy819 and hawad. These examples summarize the adjudicated values recorded in the supplied combined validation log.
+Parties: bjy819 and hawad. These examples summarize the adjudicated values recorded in thes combined validation log.
 
 ## 1. amrex-codes_iamr — ActivityPattern
 
